@@ -1,3 +1,4 @@
+01_IRIS_Flower_Classification_using_Logistic_Regression_and_Random_Forest_Summer_2026
 Project Report: IRIS Flower Classification
 Introduction
 This project aimed to classify IRIS flower species using Logistic Regression and Random Forest algorithms. The IRIS dataset, a classic in machine learning, consists of measurements for three different species of Iris flowers: Setosa, Versicolor, and Virginica.
