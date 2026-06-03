@@ -21,4 +21,4 @@ Following Logistic Regression, a Random Forest Classifier was trained. This mode
 Conclusion
 Both Logistic Regression and Random Forest models performed exceptionally well on the IRIS dataset, achieving perfect or near-perfect classification accuracy. This project successfully demonstrated the application of these fundamental machine learning algorithms for multi-class classification tasks.
 
-Colab
+
